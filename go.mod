@@ -69,7 +69,7 @@ require (
 
 require (
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
-	github.com/XiaoMi/pegasus-go-client v0.0.0-20210427083443-f3b6b08bc4c2 // indirect
+	github.com/XiaoMi/pegasus-go-client v0.0.0-20220519103347-ba0e68465cd5 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
