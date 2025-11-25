@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino
 
-go 1.21
+go 1.21.0
 
 require (
 	github.com/authzed/authzed-go v0.7.0
@@ -111,7 +111,7 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/spf13/cast v1.6.0 // indirect
+	github.com/spf13/cast v1.10.0 // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
