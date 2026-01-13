@@ -6,7 +6,7 @@ require (
 	github.com/authzed/authzed-go v0.7.0
 	github.com/authzed/grpcutil v0.0.0-20230908193239-4286bb1d6403
 	github.com/coocood/freecache v1.1.1
-	github.com/coreos/go-oidc v2.2.1+incompatible
+	github.com/coreos/go-oidc v2.5.0+incompatible
 	github.com/eko/gocache v1.2.0
 	github.com/envoyproxy/go-control-plane v0.12.1-0.20240621013728-1eb8caab5155
 	github.com/go-jose/go-jose/v4 v4.0.2
@@ -64,7 +64,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.3.1 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240701130421-f6361c86f094 // indirect
-	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
+	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 )
 
 require (
