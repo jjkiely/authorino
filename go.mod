@@ -72,7 +72,7 @@ require (
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20210427083443-f3b6b08bc4c2 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
+	github.com/bradfitz/gomemcache v0.0.0-20260422231931-4d751bb6e37c // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/certifi/gocertifi v0.0.0-20210507211836-431795d63e8d // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
