@@ -119,7 +119,7 @@ jobs:
           echo "${TEMP_PATH}" >> $GITHUB_PATH
 
       - id: golangci_configuration
-        uses: andstor/file-existence-action@v1
+        uses: andstor/file-existence-action@v3
         with:
           files: .golangci.yaml
       - name: Go Lint
