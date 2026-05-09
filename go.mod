@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino
 
-go 1.21
+go 1.23
 
 require (
 	github.com/authzed/authzed-go v0.7.0
@@ -20,7 +20,7 @@ require (
 	github.com/prometheus/client_golang v1.20.2
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
-	github.com/tidwall/gjson v1.14.0
+	github.com/tidwall/gjson v1.19.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0
 	go.opentelemetry.io/otel v1.28.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.28.0
