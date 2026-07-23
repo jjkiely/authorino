@@ -10,7 +10,7 @@ require (
 	github.com/eko/gocache v1.2.0
 	github.com/envoyproxy/go-control-plane v0.12.1-0.20240621013728-1eb8caab5155
 	github.com/go-jose/go-jose/v4 v4.0.2
-	github.com/go-logr/logr v1.4.2
+	github.com/go-logr/logr v1.4.4
 	github.com/gogo/googleapis v1.4.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/golang/mock v1.6.0
