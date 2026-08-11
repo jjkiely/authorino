@@ -46,7 +46,7 @@ jobs:
         uses: docker/setup-qemu-action@v3
       - name: Build Image
         id: build-image
-        uses: redhat-actions/buildah-build@v2
+        uses: redhat-actions/buildah-build@v3
         with:
           image: authorino
           tags: ${{ env.IMG_TAGS }}
