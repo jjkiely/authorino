@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino
 
-go 1.21
+go 1.23
 
 require (
 	github.com/authzed/authzed-go v0.7.0
@@ -62,6 +62,7 @@ require (
 	github.com/tchap/go-patricia/v2 v2.3.1 // indirect
 	go.opentelemetry.io/otel/metric v1.28.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.3.1 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240701130421-f6361c86f094 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
@@ -104,15 +105,14 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pegasus-kv/thrift v0.13.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/pquerna/cachecontrol v0.0.0-20201205024021-ac21108117ac // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
-	github.com/sirupsen/logrus v1.9.3 // indirect
+	github.com/sirupsen/logrus v1.10.2 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.12.1
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
