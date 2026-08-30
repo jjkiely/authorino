@@ -43,7 +43,7 @@ require (
 
 require (
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
-	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
+	github.com/emicklei/go-restful/v3 v3.13.0 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-ini/ini v1.67.0 // indirect
