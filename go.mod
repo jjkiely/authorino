@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino
 
-go 1.21
+go 1.22.0
 
 require (
 	github.com/authzed/authzed-go v0.7.0
@@ -86,7 +86,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-logr/zapr v1.2.4 // indirect
 	github.com/go-redis/redis/v8 v8.11.5 // indirect
-	github.com/gobwas/glob v0.2.3 // indirect
+	github.com/gobwas/glob v1.0.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4
