@@ -7,8 +7,8 @@ import (
 	"github.com/kuadrant/authorino/pkg/json"
 
 	"github.com/coocood/freecache"
-	gocache "github.com/eko/gocache/cache"
-	cache_store "github.com/eko/gocache/store"
+	gocache "github.com/eko/gocache/v3/cache"
+	cache_store "github.com/eko/gocache/v3/store"
 )
 
 var EvaluatorCacheSize int // in megabytes
