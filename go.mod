@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino
 
-go 1.21
+go 1.23
 
 require (
 	github.com/authzed/authzed-go v0.7.0
@@ -20,7 +20,7 @@ require (
 	github.com/prometheus/client_golang v1.20.2
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
-	github.com/tidwall/gjson v1.14.0
+	github.com/tidwall/gjson v1.20.2
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0
 	go.opentelemetry.io/otel v1.28.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.28.0
@@ -114,7 +114,7 @@ require (
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/match v1.1.1 // indirect
-	github.com/tidwall/pretty v1.2.0 // indirect
+	github.com/tidwall/pretty v1.3.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/yashtewari/glob-intersection v0.2.0 // indirect
